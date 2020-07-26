@@ -24,8 +24,12 @@
 			]
 		},
 		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+		},
+		{
 			"Name": "AdvancedSessions",
-			"Enabled": false
+			"Enabled": true
 		}
 	]
 }
